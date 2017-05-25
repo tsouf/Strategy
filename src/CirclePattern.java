@@ -29,6 +29,7 @@ public class CirclePattern implements RunningPatternStrategy {
                     }while (energy > 0);
                     System.out.println("run completed...DEAD");
                 }
+                dick
             }
 
 
